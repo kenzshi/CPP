@@ -7,7 +7,7 @@
 - [ ] Mergesort
 - [ ] Bubblesort
 - [ ] Insertion
-- [ ]Selection
+- [ ] Selection
 
 ###Data Structures:
 - [x] Array
