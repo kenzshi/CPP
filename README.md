@@ -3,21 +3,21 @@
 ##Topics:
 
 ###Algorithms:
-* Quicksort 
-* Mergesort
-* Bubblesort
-* Insertion
-* Selection
+- [ ] Quicksort 
+- [ ] Mergesort
+- [ ] Bubblesort
+- [ ] Insertion
+- [ ]Selection
 
 ###Data Structures:
-* Array
-* Stack
-* Queue
-* Tree
+- [x] Array
+- [ ] Stack
+- [ ] Queue
+- [ ] Tree
 	* Binary Search Tree
-* Heap
-* Graphs
-* Linked Lists
+- [ ] Heap
+- [ ] Graphs
+- [ ] Linked Lists
 	* Single
 	* Double
 	* Circular
